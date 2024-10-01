@@ -1,6 +1,6 @@
 # Python Chess Bot 🧠♟️
 
-A robust **Chess Bot** built in Python, capable of playing at an ~1800 Elo strength. It runs by executing the `Chess.py` file, and offers a flexible interface for various game modes.
+A robust **Chess Bot** built in Python, capable of playing at an ~1800 Elo strength. It runs by executing the `Chess.py` file.
 
 ### Features:
 - **Engine Strength:** ~1800 Elo
