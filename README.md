@@ -1,4 +1,4 @@
-# Python Chess Bot 🧠♟️
+# Peterbot: A Python Chess Bot 🧠♟️
 
 A robust **Chess Bot** built in Python, capable of playing at an ~1800 Elo strength. It runs by executing the `Chess.py` file.
 
