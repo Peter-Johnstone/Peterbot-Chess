@@ -1,0 +1,32 @@
+{
+    "classic": {
+      "WHITE": [206, 182, 131],
+      "BLACK": [150, 77, 34],
+      "SELECTED_SQUARE_COLOR": [128, 128, 0],
+      "BACKGROUND_COLOR": [50, 50, 50],
+      "LINE_COLOR": [255, 255, 255],
+      "CIRCLE_OUTLINE_COLOR": [120, 120, 120, 120],
+      "CIRCLE_COLOR": [120, 120, 120, 120],
+      "IMAGE_EXTENSION": "png"
+    },
+    "anarcandy": {
+      "WHITE": [255, 255, 255],
+      "BLACK": [251, 217, 225],
+      "SELECTED_SQUARE_COLOR": [144, 238, 144],
+      "BACKGROUND_COLOR": [30, 30, 30],
+      "LINE_COLOR": [200, 200, 200],
+      "CIRCLE_OUTLINE_COLOR": [100, 100, 100, 120],
+      "CIRCLE_COLOR": [100, 100, 100, 120],
+      "IMAGE_EXTENSION": "svg"
+    },
+    "fantasy": {
+        "WHITE": [35, 173, 76, 128],
+        "BLACK": [0, 0, 0, 128],
+        "SELECTED_SQUARE_COLOR": [128, 128, 0],
+        "BACKGROUND_COLOR": [50, 50, 50],
+        "LINE_COLOR": [255, 255, 255],
+        "CIRCLE_OUTLINE_COLOR": [120, 120, 120, 120],
+        "CIRCLE_COLOR": [120, 120, 120, 120],
+        "IMAGE_EXTENSION": "svg"
+      }
+  }
